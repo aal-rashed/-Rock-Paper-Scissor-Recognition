@@ -1,6 +1,6 @@
 # Rock-Paper-Scissor Recognition
 
-This project I use  teachable machine and colab to recognize hand gestures representing **Rock**, **Paper**, or **Scissors** from an input image.
+In this project I used teachable machine and colab to recognize hand gestures representing **Rock**, **Paper**, or **Scissors** from an input image.
 
 ## How to Use
 
